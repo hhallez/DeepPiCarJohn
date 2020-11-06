@@ -1,3 +1,7 @@
+All credits go to: https://github.com/dctian/DeepPiCar By dctian
+Just needed to reupload for a school work
+
+
 #### [DeepPiCar Series](https://towardsdatascience.com/tagged/deep-pi-car)
 
 # DeepPiCar — Part 1: How to Build a Deep Learning, Self Driving Robotic Car on a Shoestring Budget
