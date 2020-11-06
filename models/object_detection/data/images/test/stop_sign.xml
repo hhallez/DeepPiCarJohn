@@ -1,7 +1,7 @@
 <annotation>
   <folder>Coral Training</folder>
-  <filename>stop_sign</filename>
-  <path>C:/Users/Robin/Desktop/Coral Training/stop_sign.jpg</path>
+  <filename>stop_sign.jpg</filename>
+  <path>./</path>
   <source>
     <database>Unknown</database>
   </source>
