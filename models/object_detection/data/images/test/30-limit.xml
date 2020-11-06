@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Coral Training</folder>
+  <filename>122913915_766235034107915_8159505598247175649_n</filename>
+  <path>C:/Users/Robin/Desktop/Coral Training/122913915_766235034107915_8159505598247175649_n.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>893</width>
+    <height>958</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>30-limit</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>79</xmin>
+      <ymin>124</ymin>
+      <xmax>804</xmax>
+      <ymax>845</ymax>
+    </bndbox>
+  </object>
+</annotation>

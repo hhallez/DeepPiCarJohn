@@ -1,0 +1,26 @@
+<annotation>
+  <folder>bordenbrak</folder>
+  <filename>70 bord</filename>
+  <path>C:\Users\Robin\Desktop\Coral Training\bordenbrak\70 bord.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3024</width>
+    <height>4032</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>70-limit</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>865</ymin>
+      <xmax>2675</xmax>
+      <ymax>3366</ymax>
+    </bndbox>
+  </object>
+</annotation>

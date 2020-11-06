@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Coral Training</folder>
+  <filename>stop_sign</filename>
+  <path>C:/Users/Robin/Desktop/Coral Training/stop_sign.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>660</width>
+    <height>645</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>stop-bord</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1</ymin>
+      <xmax>660</xmax>
+      <ymax>637</ymax>
+    </bndbox>
+  </object>
+</annotation>
